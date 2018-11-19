@@ -1,0 +1,28 @@
+.Login {
+    text-align: left;
+    margin: auto;
+    background-color: ghostwhite;
+    width: 40%;
+    height: 80%;
+    padding: 40px;
+    align-self: center;
+}
+
+.cover {
+    width: 100%;
+    height: 100%;
+    text-align: center
+}
+
+.Login form {
+    margin: 0 auto;
+    max-width: 320px;
+}
+
+.title {
+    text-align: center;
+}
+
+.BTNdiv {
+    flex-direction: row;
+}

@@ -1,0 +1,26 @@
+.SignUp {
+    text-align: left;
+    margin: auto;
+    background-color: ghostwhite;
+    width: 40%;
+    padding: 40px;
+    align-self: center;
+}
+
+.cover {
+    width: 100%;
+    text-align: center
+}
+
+.SignUp form {
+    margin: 0 auto;
+    max-width: 320px;
+}
+
+.title {
+    text-align: center
+}
+
+.textCenter {
+    text-align: center;
+}
